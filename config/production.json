@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://richard123:richard123@cluster0.8uvtq.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretoken",
+    "githubToken": "d7053a257971aeacbf5011bdc7ecca371551ba2f"
+  }
+  
